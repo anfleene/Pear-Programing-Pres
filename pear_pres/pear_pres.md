@@ -1,9 +1,9 @@
 !SLIDE
-# Pear Programing #
+# Pear Programming #
 
 !SLIDE center
 
-![LOL WUT?](pear_programing.jpg)
+![LOL WUT?](pear_programming.jpg)
 
 !SLIDE
 # Definition #
@@ -24,7 +24,7 @@ Pair programming is an agile software development technique in which two program
 # VS #
 
 !SLIDE center
-# Pair Programing #
+# Pair Programming #
 ![WINNER](scary_hydra.jpg)
 
 !SLIDE
