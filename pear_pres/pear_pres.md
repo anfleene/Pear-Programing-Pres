@@ -82,4 +82,6 @@ Pair programming is an agile software development technique in which two program
 !SLIDE
 # Questions? #
 
+[Showoff Deck Repo](http://github.com/anfleene/Pear-Programing-Pres)
+
 
